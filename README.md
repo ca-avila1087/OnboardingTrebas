@@ -1,2 +1,0 @@
-# OnboardingTrebas
- Sample Online course
